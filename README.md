@@ -13,12 +13,12 @@ Este repositorio contiene materiales y ejemplos relacionados con estadísticas p
 ## Ejemplos
 
 1. [Análisis Exploratorio de datos](CAPÍTULO_1_Análisis_Exploratorio_De_Datos.ipynb)
-2. [Datos y Distribuciones de Muestreo](Notebooks/Datos_y_Distribuciones_de_Muestreo.ipynb)
-3. [Experimentos estadísticos y pruebas de significancia](Notebooks/Experimentos_estadísticos_y_pruebas_de_significancia.ipynb)
-4. [Regresión y Predicción](Notebooks/Regresión_y_Predicción.ipynb).
-5. [Clasificación](Notebooks/Clasificación.ipynb).
-6. [Aprendizaje Estadístico de Máquinas](Notebooks/Aprendizaje_Estadístico_de_Máquinas.ipynb).
-7. [Aprendizaje No supervisado](Notebooks/Aprendizaje_No_supervisado.ipynb).
+2. [Datos y Distribuciones de Muestreo](Datos_y_Distribuciones_de_Muestreo.ipynb)
+3. [Experimentos estadísticos y pruebas de significancia](Experimentos_estadísticos_y_pruebas_de_significancia.ipynb)
+4. [Regresión y Predicción](Regresión_y_Predicción.ipynb).
+5. [Clasificación](Clasificación.ipynb).
+6. [Aprendizaje Estadístico de Máquinas](Aprendizaje_Estadístico_de_Máquinas.ipynb).
+7. [Aprendizaje No supervisado](Aprendizaje_No_supervisado.ipynb).
 
 ## Recursos adicionales
 
