@@ -12,7 +12,7 @@ Este repositorio contiene materiales y ejemplos relacionados con estadísticas p
 
 ## Ejemplos
 
-1. [Análisis Exploratorio de datos](Notebooks/CAPÍTULO%201%20An%C3%A1lisis%20Exploratorio%20De%20Datos.ipynb)
+1. [Análisis Exploratorio de datos](CAPÍTULO_1_Análisis_Exploratorio_De_Datos.ipynb)
 2. [Datos y Distribuciones de Muestreo](Notebooks/Datos_y_Distribuciones_de_Muestreo.ipynb)
 3. [Experimentos estadísticos y pruebas de significancia](Notebooks/Experimentos_estadísticos_y_pruebas_de_significancia.ipynb)
 4. [Regresión y Predicción](Notebooks/Regresión_y_Predicción.ipynb).
